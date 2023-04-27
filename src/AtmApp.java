@@ -5,7 +5,8 @@ public class AtmApp {
         System.out.println("Java is easy");
         //version2
 
-
+        System.out.println("tuba branch i kod yazdim");
+        //tuba1
 
 
 
