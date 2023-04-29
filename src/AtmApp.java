@@ -7,6 +7,8 @@ public class AtmApp {
 
         System.out.println("tuba branch i kod yazdim");
         //tuba1
+        
+        //remote repoda degisiklik yaptim.
 
 
 
